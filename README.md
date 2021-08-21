@@ -14,7 +14,7 @@ The address for the website is https://sandymccabe.github.io/Horiseon/
 ​
 ## Credits
 ​
-Original code provided by Horiseon in partnership with the University of Minnesota Coding Bootcame Team and Trilogy Education Services..
+Original code provided by Horiseon in partnership with the University of Minnesota Coding Bootcame Team and Trilogy Education Services.
 ​
 I helped make the code readable by using more descriptive HTML containers, adding some comments, reducing duplicate code within the CSS, providing tags for images, and verifying all links work.
 ​​
